@@ -65,3 +65,19 @@
 * **Descripción:** Mercado dedicado a la revisión del código fuente de *Smart Contracts* para detectar vulnerabilidades informáticas antes de su despliegue en redes descentralizadas.
 * **Ejemplos de actores en el sector TIC catalán / español:** **Grant Thornton España** (área Blockchain/Cyber), **Freeverse.io** (Barcelona), **Caelum Labs**.
 
+---
+
+## EC3.6 Parte de negocio vs. parte de planta
+
+| THD | Negocio | Planta | Ambas |
+|---|:---:|:---:|:---:|
+| **IoT** | | | **X** |
+| **Big Data** | | | **X** |
+| **IA** | | | **X** |
+| **Cloud** | | | **X** |
+| **Ciberseguridad** | | | **X** |
+| **Blockchain** | | | **X** |
+| **RPA** | **X** | | |
+| **Fabricación aditiva** | | **X** | |
+| **AR/VR** | | | **X** |
+
