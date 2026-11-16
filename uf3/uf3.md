@@ -91,3 +91,22 @@
 | **IoT** | Automatización en la entrada de datos al ERP sin necesidad de introducción manual de inventarios por parte del personal. | Captura en tiempo real del estado del stock físico mediante etiquetas RFID/sensores en líneas de montaje. |
 | **Big Data** | Capacidad de correlacionar datos de demanda de clientes con factores externos (mercado, meteorología, logística global). | Identificación de cuellos de botella y patrones anómalos de funcionamiento en la maquinaría del taller. |
 | **Cloud** | Acceso centralizado, escalable y en movilidad a la información del sistema de gestión desde cualquier sede. | Sincronización continua de datos entre diferentes plantas de producción e integración multi-fábrica. |
+
+---
+
+## EC3.8 Plan de futuro: ¿qué THD priorizo?
+
+### 1. Las 3 THD elegidas:
+1. **IoT**
+2. **Cloud**
+3. **IA (Machine Learning aplicado)**
+
+### 2. Justificación:
+Con un equipo reducido (8 personas) y presupuesto limitado, estas 3 tecnologías forman un **triángulo sintético eficiente e integrable**:
+* **IoT** actúa como captador de datos reales sobre el terreno.
+* **Cloud** sirve de infraestructura escalable económica (pago por uso) sin necesidad de inversión inicial en servidores.
+* **IA** transforma los datos brutos captados por el IoT y almacenados en la nube en decisiones operativas de alto valor añadido.
+
+### 3. Producto / Servicio resultante:
+**"SaaS de Mantenimiento Predictivo Inteligente para PYMEs Industriales"**
+Un servicio donde la consultora instala sensores IoT de bajo coste en la maquinaria del cliente, transmite los telemetramientos a una plataforma Cloud gestionada por la consultora, y utiliza algoritmos de IA para predecir averías mecánicas antes de que ocurran, notificando alertas directas a los gestores de la planta.
