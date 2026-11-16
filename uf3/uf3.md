@@ -51,3 +51,17 @@
 | **Cloud** | Consolida servidores físicos infrautilizados en Data Centers eficientes con mayor tasa de ocupación y energía de fuentes renovables. | Migración de servidores locales a AWS/Azure, reduciendo la huella de carbono de la infraestructura mediante virtualización masiva. |
 | **RPA** | Elimina completamente la impresión de papel y optimiza flujos de trabajo reduciendo ciclos de cómputo innecesarios. | Automatización de la digitalización y validación de facturas electrónicas, reduciendo a cero el uso de soporte físico de papel. |
 
+---
+
+## EC3.5 Nuevos mercados generados por las THD
+
+### 1. Perfil / Mercado: Especialista en MLOps (DevOps para Machine Learning)
+* **THD que lo ha hecho posible:** IA (Inteligencia Artificial) / Cloud.
+* **Descripción:** Profesionales dedicados al ciclo de vida del despliegue, monitorización y reentrenamiento continuo de modelos de IA en producción.
+* **Ejemplos de actores en el sector TIC catalán / español:** **Predimedical**, **Noddus**, **Clarity AI**, o consultoras especializadas como **NTT DATA España** o **Sener**.
+
+### 2. Perfil / Mercado: Auditor de Contratos Inteligentes / Ciberseguridad Web3
+* **THD que lo ha hecho posible:** Blockchain.
+* **Descripción:** Mercado dedicado a la revisión del código fuente de *Smart Contracts* para detectar vulnerabilidades informáticas antes de su despliegue en redes descentralizadas.
+* **Ejemplos de actores en el sector TIC catalán / español:** **Grant Thornton España** (área Blockchain/Cyber), **Freeverse.io** (Barcelona), **Caelum Labs**.
+
