@@ -81,3 +81,13 @@
 | **Fabricación aditiva** | | **X** | |
 | **AR/VR** | | | **X** |
 
+---
+
+## EC3.7 Mejoras IT y OT gracias a las THD 
+
+| THD | Mejora IT | Mejora OT |
+|---|---|---|
+| **IA** | Predicción precisa de demanda para optimizar la compra de licencias, cálculo de costes y planificación financiera en el ERP. | Optimización de ritmos de producción y planificación de paradas de máquinas según previsiones de uso real. |
+| **IoT** | Automatización en la entrada de datos al ERP sin necesidad de introducción manual de inventarios por parte del personal. | Captura en tiempo real del estado del stock físico mediante etiquetas RFID/sensores en líneas de montaje. |
+| **Big Data** | Capacidad de correlacionar datos de demanda de clientes con factores externos (mercado, meteorología, logística global). | Identificación de cuellos de botella y patrones anómalos de funcionamiento en la maquinaría del taller. |
+| **Cloud** | Acceso centralizado, escalable y en movilidad a la información del sistema de gestión desde cualquier sede. | Sincronización continua de datos entre diferentes plantas de producción e integración multi-fábrica. |
