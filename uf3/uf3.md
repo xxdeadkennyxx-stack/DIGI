@@ -41,3 +41,13 @@
 | Queremos analizar imágenes de productos para detectar defectos visuales. | **IA (Visión por Computador)** | Entrena modelos de aprendizaje profundo para clasificar e identificar anomalias físicas en tiempo real. |
 | Queremos simular entornos industriales para formar personal técnico. | **AR/VR** | Ofrece un entorno inmersivo controlado e interactivo donde el personal practica tareas de riesgo sin peligro real. |
 
+---
+
+## EC3.4 THD y sostenibilidad 
+
+| THD | Cómo contribuye a la sostenibilidad | Ejemplo concreto en una empresa TIC |
+|---|---|---|
+| **IoT** | Optimiza el uso de recursos energéticos e hídricos mediante monitorización continua y automatización del apagado/regulación. | Monitorización con sensores del consumo en CPDs para optimizar la climatización (*PUE - Power Usage Effectiveness*) en tiempo real. |
+| **Cloud** | Consolida servidores físicos infrautilizados en Data Centers eficientes con mayor tasa de ocupación y energía de fuentes renovables. | Migración de servidores locales a AWS/Azure, reduciendo la huella de carbono de la infraestructura mediante virtualización masiva. |
+| **RPA** | Elimina completamente la impresión de papel y optimiza flujos de trabajo reduciendo ciclos de cómputo innecesarios. | Automatización de la digitalización y validación de facturas electrónicas, reduciendo a cero el uso de soporte físico de papel. |
+
